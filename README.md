@@ -1,4 +1,4 @@
-# JAVA-SCRIPT
+# ColorGame
 This is a Game I built using HTML , CSS , and Java Script! 
 I was inspired to make this exciting project from The WebDevelopment BootCamp By Colt Steel on Udemy!
 
