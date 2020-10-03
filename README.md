@@ -14,6 +14,8 @@ colorGame.js
 NOTE * You must have the files in the same directory.
 
 To run the program, you have a few options:  
-  1- Double click the colorGame.html File 
-  2- Simply drag the colorGame.html file onto a web browser, Preferably Google Chrome 
+  1- Download the Code as a zip file using the green download button! 
+  2- Double click the colorGame.html File Or drag the colorGame.html file onto Google Chrome! 
+  3- Guess what color the RGB values on the top represent! :)
+   
  
